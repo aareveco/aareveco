@@ -21,6 +21,7 @@ With a strong academic foundation in **Operations Research**, **Optimization**, 
 ## 🌩️ Cloud Certifications
 
 <p align="center">
+  <img src="images/GCP_A.png" alt="GCP" width="200"/>
   <img src="images/GCP_C.png" alt="GCP" width="200"/>
   <img src="images/Astro_C.png" alt="Astronomer" width="200"/>
 </p>
