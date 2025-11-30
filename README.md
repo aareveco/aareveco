@@ -6,9 +6,13 @@ My work focuses on building robust and scalable Data Pipelines using cloud platf
 
 Some of the areas I work in include:
 - **Data Engineering**
+- **Dev Ops**
+- **Mobile Apps Developement**
+- **Back End Developement**
 - **Machine Learning**
 - **Deep Learning**
 - **Transformers & LLMs** (Fine-tuning, RAG, LangChain, Hugging Face)
+
 
 
 With a strong academic foundation in **Operations Research**, **Optimization**, and ongoing Master's degree in  Artificial Intelligence, I’m passionate about solving complex problems through AI/Data and delivering real-world impact with clean, well-documented code.
